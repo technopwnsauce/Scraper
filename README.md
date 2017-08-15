@@ -1,2 +1,2 @@
 # Scraper
-Scrapes images and gifs to all your favorite subreddits in BASH
+Scrapes images and gifs from all your favorite subreddits in BASH
